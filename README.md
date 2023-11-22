@@ -36,7 +36,6 @@ Il s'agit d'une mise en œuvre simple du classique jeu Flappy Bird en utilisant 
 - Bibliothèque Pygame
 
 ## Installation
-    ```bash
     pip install pygame
 
 ## Contrôles
